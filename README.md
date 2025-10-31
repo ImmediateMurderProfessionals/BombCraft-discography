@@ -1,5 +1,7 @@
 # BombCraft discography
 
+All songs released under CC-BY unless otherwise stated (that means you can do whatever the fuck you want as long as you credit me somewhere)
+
 Songs ordered by release:
 
 
@@ -11,4 +13,4 @@ chrome_scribble: released April 21, 2024
 
 Hinds Hinds Go Away: released November 10, 2024
 
-More coming soon!
+I'll start making real stuff soon; any songs before 2025 likely will not be uploaded to Newgrounds once I turn 16 and make my account
