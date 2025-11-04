@@ -1,6 +1,6 @@
 # BombCraft discography
 
-All songs released under CC-BY unless otherwise stated (that means you can do whatever the fuck you want as long as you credit me somewhere)
+All songs released under CC-BY unless otherwise stated, with one exception: use of my songs to train artificial intelligence (AI) models is not tolerated and never will be; if I find out my music has been used to train your AI model I will ~~come to your house and fucking kill you~~ take legal action
 
 Songs ordered by release:
 
